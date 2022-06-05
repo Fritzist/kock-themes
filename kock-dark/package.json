@@ -1,0 +1,21 @@
+{
+    "name": "kock-dark",
+    "displayName": "kock-dark",
+    "description": "Dark theme for real Keks.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Kock Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Kock Dark-color-theme.json"
+            }
+        ]
+    }
+}
