@@ -1,0 +1,37 @@
+{
+    "name": "kock-themes",
+    "displayName": "kock-themes",
+    "description": "Kock themes for real Keks.",
+    "publisher": "kotwoss",
+    "icon": "icon.png",
+    "version": "0.0.4",
+    "author": {
+        "name": "KotwOSS",
+        "email": "kekontheworld@kotw.dev",
+        "url": "https://oss.kotw.dev"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/KotwOSS/kock-themes.git"
+    },
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Kock Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Kock Dark-color-theme.json"
+            },
+            {
+                "label": "Kock Light",
+                "uiTheme": "vs",
+                "path": "./themes/Kock Light-color-theme.json"
+            }
+        ]
+    }
+}

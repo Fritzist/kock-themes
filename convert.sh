@@ -1,0 +1,1 @@
+convert -background none -density 128 -resize 128x icon.svg icon.png

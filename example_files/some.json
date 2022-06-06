@@ -1,0 +1,13 @@
+{
+    "abc": "Hello world",
+    "abc2": 234,
+    "abc3": "Hello world3",
+    "abc4": {
+        "abc": "Hello world",
+        "abc2": 14,
+        "abc3": "Hello world3",
+        "abc4": [
+            "abc", 238.4, 234, "abc"
+        ]
+    }
+}
