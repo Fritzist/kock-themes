@@ -1,13 +1,41 @@
-# README
-## This is the README for your extension "kock-dark"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+```
+ _  __          _    _____ _
+| |/ /___   ___| | _|_   _| |__   ___ _ __ ___   ___ ___
+| ' // _ \ / __| |/   | | | '_ \ / _ | '_ ` _ \ / _ / __|
+| . | (_) | (__|   <  | | | | | |  __| | | | | |  __\__ \
+|_|\_\___/ \___|_|\_  |_| |_| |_|\___|_| |_| |_|\___|___/
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+You are KEK? Use Kock.
+```
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Kock themes are made for real KEKs just like you and me.
 
-**Enjoy!**
+<hr>
+<br>
+
+## Includes
+This extension includes the following themes:
+
+### Kock Dark
+A Kock style dark theme for vscode.
+
+<img src="screenshots/kock_dark_0.png">
+<img src="screenshots/kock_dark_1.png">
+<img src="screenshots/kock_dark_2.png">
+
+<br>
+
+### Kock Light
+A Kock style light theme for vscode.
+
+<img src="screenshots/kock_light_0.png">
+<img src="screenshots/kock_light_1.png">
+<img src="screenshots/kock_light_2.png">
+
+
+<hr>
+<br>
+
+## License
+
+This project is licensed under the [Mit License](https://oss.kotw.dev/licenses/?id=mit).

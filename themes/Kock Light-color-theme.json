@@ -5,35 +5,36 @@
         "activityBar.activeBackground": "#f1f1f1",
         "activityBar.activeBorder": "#ff5100",
         "activityBar.background": "#ffffff",
+        "activityBar.foreground": "#000000",
         
         "button.hoverBackground": "#ff7f44",
         "button.background": "#ff6d2a",
         "button.foreground": "#000000",
         "button.secondaryBackground": "#cfcfcf",
-        "button.secondaryForeground": "#bdbdbd",
+        "button.secondaryForeground": "#000000",
         
         "icon.foreground": "#ff651e",
 
-        "menu.separatorBackground": "#f1f1f1",
+        "menu.separatorBackground": "#dbdbdb",
 
-        "menubar.selectionBackground": "#f1f1f1",
+        "menubar.selectionBackground": "#e6e6e6",
         "menubar.selectionForeground": "#ff5100",
 
         "menu.background": "#ffffff",
         "menu.foreground": "#000000",
-        "menu.border": "#f1f1f1",
+        "menu.border": "#d6d6d6",
         "menu.selectionBackground": "#f1f1f1",
         "menu.selectionForeground": "#ff5100",
-        "menu.selectionBorder": "#f1f1f1",
+        "menu.selectionBorder": "#d6d6d6",
         
         "sideBarSectionHeader.background": "#f1f1f1",
         "sideBar.background": "#ffffff",
-        "sideBar.border": "#f1f1f1",
+        "sideBar.border": "#d6d6d6",
         
         "notificationCenterHeader.background": "#ffffff",
         "notifications.background": "#ffffff",
-        "notifications.border": "#f1f1f1",
-        "notificationCenter.border": "#f1f1f1",
+        "notifications.border": "#d6d6d6",
+        "notificationCenter.border": "#d6d6d6",
         
         "editorGroupHeader.tabsBackground": "#ffffff",
         
@@ -42,17 +43,18 @@
         "scrollbarSlider.hoverBackground": "#f1f1f1",
         
 		"activityBarBadge.background": "#ff5100",
-		"sideBarTitle.foreground": "#ffffff",
+		"sideBarTitle.foreground": "#000000",
         
         "minimap.background": "#ffffffb0",
 
         "statusBar.background":"#ffffff",
-        "statusBar.border": "#f1f1f1",
+        "statusBar.foreground":"#000000",
+        "statusBar.border": "#d6d6d6",
         
-        "tab.border": "#f1f1f1",
+        "tab.border": "#d6d6d6",
         "tab.inactiveBackground": "#ffffff",
 
-        "titleBar.border": "#f1f1f1",
+        "titleBar.border": "#d6d6d6",
         "titleBar.activeBackground": "#ffffff",
         "titleBar.inactiveBackground": "#ffffff",
         
@@ -62,10 +64,10 @@
 
         "editorGroup.dropBackground": "#ff6e2a44",
         
-        "editorGroup.border": "#f1f1f1",
+        "editorGroup.border": "#d6d6d6",
         
 		"editor.background": "#ffffff",
-		"editor.foreground": "#ffffff",
+		"editor.foreground": "#000000",
 
         "editor.selectionBackground": "#dd760048",
 
