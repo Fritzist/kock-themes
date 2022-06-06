@@ -19,18 +19,20 @@ This extension includes the following themes:
 ### Kock Dark
 A Kock style dark theme for vscode.
 
-<img src="screenshots/kock_dark_0.png">
-<img src="screenshots/kock_dark_1.png">
-<img src="screenshots/kock_dark_2.png">
+<img src="https://github.com/KotwOSS/kock-themes/raw/main/screenshots/kock_dark_0.png">
+<img src="https://github.com/KotwOSS/kock-themes/raw/main/screenshots/kock_dark_1.png">
+<img src="https://github.com/KotwOSS/kock-themes/raw/main/screenshots/kock_dark_2.png">
+<img src="https://github.com/KotwOSS/kock-themes/raw/main/screenshots/kock_dark_3.png">
 
 <br>
 
 ### Kock Light
 A Kock style light theme for vscode.
 
-<img src="screenshots/kock_light_0.png">
-<img src="screenshots/kock_light_1.png">
-<img src="screenshots/kock_light_2.png">
+<img src="https://github.com/KotwOSS/kock-themes/raw/main/screenshots/kock_light_0.png">
+<img src="https://github.com/KotwOSS/kock-themes/raw/main/screenshots/kock_light_1.png">
+<img src="https://github.com/KotwOSS/kock-themes/raw/main/screenshots/kock_light_2.png">
+<img src="https://github.com/KotwOSS/kock-themes/raw/main/screenshots/kock_light_3.png">
 
 
 <hr>

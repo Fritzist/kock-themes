@@ -1,5 +1,7 @@
 """Unit tests for the binary search tree module."""
 
+# ANCHOR: top
+
 import pytest
 
 from trees import tree_exceptions
@@ -38,6 +40,9 @@ def test_simple_case(basic_tree):
     with pytest.raises(tree_exceptions.KeyNotFoundError):
         tree.search(key=15)
 
+
+
+# ANCHOR: middle
 
 def test_deletion(basic_tree):
     """Test the deletion of a binary search tree."""
@@ -103,3 +108,6 @@ def test_deletion(basic_tree):
         (34, "34"),
         (7, "7"),
     ]
+    
+
+# ANCHOR: bottom
