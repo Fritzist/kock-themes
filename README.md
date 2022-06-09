@@ -34,6 +34,12 @@ A Kock style light theme for vscode.
 <img src="https://github.com/KotwOSS/kock-themes/raw/main/screenshots/kock_light_2.png">
 <img src="https://github.com/KotwOSS/kock-themes/raw/main/screenshots/kock_light_3.png">
 
+<br>
+
+### Kock Red
+A Kock style red theme for vscode.
+
+<img src="https://github.com/KotwOSS/kock-themes/raw/main/screenshots/kock_red_0.png">
 
 <hr>
 <br>
