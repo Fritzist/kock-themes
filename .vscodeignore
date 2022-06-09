@@ -2,3 +2,12 @@
 .vscode-test/**
 .gitignore
 vsc-extension-quickstart.md
+kock-themes
+example-files
+screenshots
+.vscode
+package-lock.json
+vsc-extension-quickstart.md
+icon.png
+icon.rsvg
+convert.sh

@@ -4,7 +4,7 @@
     "description": "Kock themes for real Keks.",
     "publisher": "kotwoss",
     "icon": "icon.png",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "author": {
         "name": "KotwOSS",
         "email": "kekontheworld@kotw.dev",
@@ -31,6 +31,11 @@
                 "label": "Kock Light",
                 "uiTheme": "vs",
                 "path": "./themes/Kock Light-color-theme.json"
+            },
+            {
+                "label": "Kock Red",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Kock Red-color-theme.json"
             }
         ]
     }
