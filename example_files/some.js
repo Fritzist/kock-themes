@@ -21,7 +21,6 @@ class MyClass {
         return this.name;
     }
 }
-//
 function num2bin(number) {
     return number.toString(2);
 

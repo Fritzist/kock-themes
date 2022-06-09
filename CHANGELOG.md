@@ -9,3 +9,5 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Initial release
 
 - Added a Kock Red theme
+
+- Added a Kock Blue theme
