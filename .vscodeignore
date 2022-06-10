@@ -8,6 +8,5 @@ screenshots
 .vscode
 package-lock.json
 vsc-extension-quickstart.md
-icon.png
 icon.rsvg
 convert.sh
