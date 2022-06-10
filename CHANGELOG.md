@@ -11,3 +11,5 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Added a Kock Red theme
 
 - Added a Kock Blue theme
+
+- Added a Kock Green theme

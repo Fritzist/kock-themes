@@ -23,9 +23,8 @@ class MyClass {
 }
 function num2bin(number) {
     return number.toString(2);
-
 }
-
+// 
 function rickroll() {
     window.location.href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
 }
