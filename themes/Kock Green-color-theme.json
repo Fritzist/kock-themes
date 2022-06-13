@@ -28,7 +28,7 @@
         
         "sideBarSectionHeader.background": "#080808",
         "sideBar.background": "#000000",
-        "sideBar.border": "#44ff9b",
+        "sideBar.border": "#1a1a1a",
         
         "notificationCenterHeader.background": "#000000",
         "notifications.background": "#000000",
@@ -46,9 +46,8 @@
         
         "minimap.background": "#000000b0",
 
-        "statusBar.background":"#024220",
-        "statusBar.border": "#44ff9b",
-        
+        "statusBar.background":"#13c365",
+        "statusBar.foreground": "#000000",        
         "tab.border": "#1a1a1a",
         "tab.inactiveBackground": "#000000",
 
@@ -82,9 +81,21 @@
         "editorError.foreground": "#420e0e",
         "editorError.background": "#ff40403b",
 
-        "editorGhostText.foreground": "#13a95935"
-        
-	},
+        "editorGhostText.foreground": "#13a95935",
+
+        "list.focusOutline": "#108f4b",
+        "list.activeSelectionBackground": "#108f4b3a",
+        "list.inactiveFocusOutline": "#ff0000",
+        "list.inactiveSelectionBackground": "#108f4b3a",
+        "focusBorder": "#108f4b74",
+        "statusBar.debuggingBackground": "#00ff88",
+
+        "input.background": "#000000",
+        "input.border": "#1a1a1a",
+        "editorWidget.background": "#000000",
+        "editorWidget.border": "#1a1a1a",
+        "editorWidget.resizeBorder": "#108f4b",
+    },
 	"tokenColors": [
 		{
 			"name": "Comment",
